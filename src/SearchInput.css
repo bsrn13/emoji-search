@@ -1,0 +1,16 @@
+.component-search-input {
+  border-bottom: 1px solid #ccc;
+}
+
+.component-search-input > div {
+  margin: 0 10px 10px 10px;
+}
+
+.component-search-input input {
+  border-radius: 10px;
+  box-sizing: border-box;
+  border: 1px solid #bbb;
+  padding: 10px 8px;
+  width: 100%;
+  font-size: 18px;
+}
